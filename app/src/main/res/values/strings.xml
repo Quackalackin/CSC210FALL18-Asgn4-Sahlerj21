@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sign Identification</string>
+    <string name="button1">School Zone</string>
+    <string name="button2">Police Sign</string>
+    <string name="button3">Bike Lane</string>
+    <string name="button4">Speed Limit</string>
+    <string name="welcome">Identify Which Sign</string>
+</resources>
